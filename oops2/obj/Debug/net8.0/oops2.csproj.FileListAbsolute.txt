@@ -1,0 +1,14 @@
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\bin\Debug\net8.0\oops2.exe
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\bin\Debug\net8.0\oops2.deps.json
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\bin\Debug\net8.0\oops2.runtimeconfig.json
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\bin\Debug\net8.0\oops2.dll
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\bin\Debug\net8.0\oops2.pdb
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.AssemblyInfoInputs.cache
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.AssemblyInfo.cs
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.csproj.CoreCompileInputs.cache
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.dll
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\refint\oops2.dll
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.pdb
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\oops2.genruntimeconfig.cache
+C:\Users\Srikanth Adimulam\source\repos\oops2\oops2\obj\Debug\net8.0\ref\oops2.dll
